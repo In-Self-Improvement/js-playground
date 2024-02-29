@@ -2,7 +2,8 @@ const { google } = require('googleapis');
 const fs = require('fs');
 const path = require('path');
 import { findRange } from './spreadsheetRangeFinder';
-
+import dotenv from 'dotenv';
+dotenv.config();
 // 서비스 계정 키 파일 경로
 const KEY_FILE_PATH = './env/service-account-key.json';
 

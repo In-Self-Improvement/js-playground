@@ -1,0 +1,140 @@
+[
+  {
+    "name": "마녀김밥",
+    "url": "https://place.map.kakao.com/831297810",
+    "distance": 7,
+    "menu": "김밥, 분식"
+  },
+  {
+    "name": "창업허브 3F 식당",
+    "url": "https://hubkitchen.startup-plus.kr/cms_for_bcb/process/notice/list.do?show_no=2120&check_no=2106&c_maker=1&board_no=2120&c_relation=36&c_relation2=23&s_target=&s_text=&nowPage=",
+    "distance": 4,
+    "menu": "한식, 중식"
+  },
+  {
+    "name": "마포 양지 설렁탕",
+    "url": "https://place.map.kakao.com/26973107",
+    "distance": 17,
+    "menu": "설렁탕"
+  },
+  {
+    "name": "사위식당",
+    "url": "https://place.map.kakao.com/1299609246",
+    "distance": 10,
+    "menu": "낙곱새"
+  },
+  {
+    "name": "명동칼국수",
+    "url": "https://place.map.kakao.com/25043901",
+    "distance": 10,
+    "menu": "칼국수, 냉면"
+  },
+  {
+    "name": "아비꼬",
+    "url": "https://place.map.kakao.com/467137419",
+    "distance": 19,
+    "menu": "카레"
+  },
+  {
+    "name": "마라전설",
+    "url": "https://place.map.kakao.com/1062659870",
+    "distance": 10,
+    "menu": "마라탕"
+  },
+  {
+    "name": "땀뽕",
+    "url": "https://place.map.kakao.com/1151549220#none",
+    "distance": 12,
+    "menu": "짬뽕"
+  },
+  {
+    "name": "호남식당",
+    "url": "https://naver.me/FQaI2ZRD",
+    "distance": 12,
+    "menu": "한식, 돼지국밥"
+  },
+  {
+    "name": "송추가마골",
+    "url": "https://naver.me/FGoeHbj5",
+    "distance": 6,
+    "menu": "한식, 갈비탕"
+  },
+  {
+    "name": "이아초밥",
+    "url": "https://naver.me/xbnY2I2J",
+    "distance": 5,
+    "menu": "스시"
+  },
+  {
+    "name": "옥면가",
+    "url": "https://naver.me/5JJVXa0W",
+    "distance": 9,
+    "menu": "한식, 국수, 온반"
+  },
+  {
+    "name": "오레타치카레",
+    "url": "https://naver.me/FGFup2eq",
+    "distance": 7,
+    "menu": "일식, 카레"
+  },
+  {
+    "name": "전일옥",
+    "url": "https://naver.me/GRmSIFZo",
+    "distance": 6,
+    "menu": "한식, 국밥"
+  },
+  {
+    "name": "서브웨이",
+    "url": "https://naver.me/xiv5B2b9",
+    "distance": 6,
+    "menu": "샌드위치, 샐러드"
+  },
+  {
+    "name": "등촌샤브칼국수",
+    "url": "https://naver.me/FhdA5bLv",
+    "distance": 15,
+    "menu": "한식, 샤브샤브"
+  },
+  {
+    "name": "카츠오우",
+    "url": "https://naver.me/xqfP0bE1",
+    "distance": 15,
+    "menu": "일식, 돈까스"
+  },
+  {
+    "name": "장터생선구이",
+    "url": "https://naver.me/G14FFQKj",
+    "distance": 13,
+    "menu": "한식, 생선구이"
+  },
+  {
+    "name": "희희",
+    "url": "https://place.map.kakao.com/1004017505",
+    "distance": 13,
+    "menu": "일식, 소바"
+  },
+  {
+    "name": "동아냉면",
+    "url": "https://naver.me/xMbn6YLy",
+    "distance": 4,
+    "menu": "냉면"
+  },
+  {
+    "name": "삼청당",
+    "url": "https://naver.me/GwEW6RkZ",
+    "distance": 4,
+    "menu": "김밥, 분식"
+  },
+  {
+    "name": "양산도",
+    "url": "https://naver.me/GwEW6RkZ",
+    "distance": 4,
+    "menu": "장어덮밥"
+  },
+  {
+    "name": "도스 타코스",
+    "url": "https://naver.me/Gz1wfcOI",
+    "distance": 5,
+    "menu": "멕시칸, 타코"
+  }
+]

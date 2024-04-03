@@ -81,13 +81,16 @@ const readSpreadsheetData = async (sheets) => {
 };
 
 const updateTranslationFiles = (modifiedRows) => {
-  const languageCodes = modifiedRows[0].slice(1);
-
+  const languageCodes = modifiedRows[0].slice(2);
+  console.log('languageCodes', languageCodes);
   modifiedRows.slice(1).forEach((row) => {
     const key = row[0];
 
     languageCodes.forEach((langCode, index) => {
-      const newValue = row[index + 1];
+      const newValue = row[index + 2];
+      console.log('newValue', newValue);
+      console.log('langCode', langCode);
+
       let dirPath = `./translates/${langCode}`;
       let filePath = `${dirPath}/${langCode}.json`;
 
@@ -100,6 +103,8 @@ const updateTranslationFiles = (modifiedRows) => {
       }
 
       if (fs.existsSync(filePath)) {
+        console.log('hihi');
+
         const languageData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
         if (key in languageData) {
           languageData[key] = newValue;

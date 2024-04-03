@@ -7,7 +7,7 @@ dotenv.config();
 const KEY_FILE_PATH = './env/service-account-key.json';
 
 // 스프레드시트 ID (URL에서 찾을 수 있습니다)
-const SPREADSHEET_ID = process.env.GOOGLE_SPREAD_SHEET_ID;
+const SPREADSHEET_ID = process.env.GOOGLE_SPREAD_SHEET_ID_DEMO;
 const tabName = '수정요청';
 const columnToLetter = (column) => {
   let temp,

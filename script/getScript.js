@@ -130,6 +130,7 @@ async function accessSpreadsheet() {
             filePath = `${dirPath}/country.json`;
           }
         }
+        console.log('dirPath', filePath);
 
         if (!fs.existsSync(dirPath)) {
           fs.mkdirSync(dirPath, { recursive: true });
